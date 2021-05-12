@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akhiln28
 - 👀 I’m interested in learning new concepts
 - 🌱 I’m currently learning to build applications using node
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on developing scalable web applications based on microservices architecture
 - 📫 How to reach me ...
 
 <!---
